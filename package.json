@@ -1,0 +1,22 @@
+{
+  "name": "testnodedocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bawbak/testNodeDocker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bawbak/testNodeDocker/issues"
+  },
+  "homepage": "https://github.com/Bawbak/testNodeDocker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
